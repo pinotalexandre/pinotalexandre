@@ -93,6 +93,7 @@ p {
   width: 100%;
   height: auto;
   border-radius: 10px;
+  position : relative;
 }
 .active {
   color: #444444 !important;
@@ -189,15 +190,4 @@ padding-bottom: 0;
 }
 .case-content a {
   padding-top: 30px;
-}
-.thanks img {
-  position : relative;
-}
-.thanks p {
-  color: #fff;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  margin: 0;
 }
