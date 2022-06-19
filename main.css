@@ -26,7 +26,7 @@ a {
   position: relative;
   overflow-x: visible;
   overflow-y: visible;
-  max-width: 600px;
+  max-width: 100%;
   width: 600px;
   height: min-content;
   flex-grow: 0;
