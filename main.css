@@ -159,7 +159,8 @@ ul, li {
 }
 .pics-item {
   flex: 1;
-  width: 400px;
+  width: 100%;
+  height: auto;
 }
 .case-content {
   padding-top: 30px;
