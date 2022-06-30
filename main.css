@@ -6,6 +6,10 @@ body {
   width: auto;
   transform: none;
 }
+img {
+  width: auto;
+  height: auto;
+}
 a {
   text-decoration: none; /* no underline */
   color: inherit;
