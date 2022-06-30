@@ -47,7 +47,7 @@ a {
   padding-top: 0px;
   pointer-events: auto;
   row-gap: 20px;
-  width: 600px;
+  width: auto;
   padding-bottom: 0.5em;
   padding-top: 2em;
 }
